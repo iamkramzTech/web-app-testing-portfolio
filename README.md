@@ -18,6 +18,7 @@ This project demonstrates my skills in manual testing by testing a self-develope
 ## Tools Used
 - Manual Testing
 - Microsoft Word
+- Microsoft Excel
 - Browser Testing
 
 ## Repository Link
