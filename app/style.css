@@ -1,0 +1,28 @@
+body {
+    font-family: Arial;
+    text-align: center;
+    margin-top: 50px;
+    
+}
+.form-signin {
+  max-width: 330px;
+  padding: 1rem;
+
+}
+
+input {
+    padding: 10px;
+    width: 200px;
+}
+
+button {
+    padding: 10px 20px;
+}
+
+p {
+    color: red;
+}
+
+.hidden {
+    display: none;
+}
